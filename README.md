@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this project, we will build a neural network using NumPy, and use it to predict daily bike rental ridership. The my_answers.py file contains the class NeuralNetworks, which has several methods referenced in the Jupyter notebook.
+In this project, we will build a neural network using NumPy, and use it to predict daily bike rental ridership. The my_answers.py file contains the class NeuralNetwork, which has several methods referenced in the Jupyter notebook.
 
 ## Data
 
